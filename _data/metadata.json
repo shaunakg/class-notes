@@ -1,25 +1,25 @@
 {
-  "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
-  "genre": "Insert a schema.org genre",
-  "googleAnalyticsId": "GA ID. Update me",
+  "title": "class notes",
+  "url": "https://notes.srg.codes",
+  "domain": "notes.srg.codes",
+  "description": "these are class notes.",
+  "genre": "blog",
+  "googleAnalyticsId": "UA-143676169-6",
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "This is a class notes feed.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://notes.srg.codes"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://notes.srg.codes/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
+    "name": "Shaunak G",
+    "twitterHandle": "shaunak_g"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "Shaunak G"
   }
 }
