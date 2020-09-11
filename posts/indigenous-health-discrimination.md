@@ -9,8 +9,6 @@ layout: layouts/post.njk
 image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg
 ---
 
-$$\Delta x = 12.5y$$
-
 # Closing the gap
 
 The close the gap campaign aims to close the health and life expectancy gap between Aboriginal and Torres Strait Islander peoples and non-indigenous Australians within a generation.
