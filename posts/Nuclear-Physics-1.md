@@ -1,5 +1,6 @@
 ---
 title: Nuclear Physics - Part 1
+emoji: 💣
 description: Notes about nuclear fission and fusion including some chemical equations.
 date: 2020-09-10
 tags:

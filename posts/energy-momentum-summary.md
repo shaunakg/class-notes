@@ -1,5 +1,6 @@
 ---
 title: Energy and Momentum Summary
+emoji: 🥎
 description: A summary of simple energy and momentum equations in physics with equations.
 date: 2020-09-10
 tags:

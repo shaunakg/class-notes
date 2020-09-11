@@ -1,5 +1,6 @@
 ---
 title: Matrices
+emoji: ➕
 description: A short summary on matrices
 date: 2020-09-10
 tags:

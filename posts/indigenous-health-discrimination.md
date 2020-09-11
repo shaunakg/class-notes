@@ -1,5 +1,6 @@
 ---
 title: Indigenous health and life expectancy inequality
+emoji: 🙋
 description: Humanities notes about Indigenous Australian and Torres Strait Islander health and life expectancy inequality. Not a good source of news - this page is not kept updated.
 date: 2020-09-10
 tags:

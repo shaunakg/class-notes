@@ -1,5 +1,6 @@
 ---
 title: Comparative structure
+emoji: 📜
 description: A short description of comparative writing in english literature.
 date: 2020-09-11
 tags:

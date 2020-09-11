@@ -1,5 +1,6 @@
 ---
 title: Nuclear Physics - Part 2
+emoji: 💣
 description: Notes about nuclear fusion and chemical equations describing the release of energy with fission.
 date: 2020-09-10
 tags:
