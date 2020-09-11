@@ -50,6 +50,7 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const katex = require('katex');
 const localImages = require("./third_party/eleventy-plugin-local-images/.eleventy.js");
 const CleanCSS = require("clean-css");
 
@@ -144,7 +145,18 @@ module.exports = function (eleventyConfig) {
     permalink: true,
     permalinkClass: "direct-link",
     permalinkSymbol: "#",
-  }).use(require('markdown-it-math'), {inlineOpen: "$", inlineClose: "$", blockOpen: "$$", blockClose: "$$"});
+  }).use(require('markdown-it-math'), {
+      inlineOpen: "$",
+      inlineClose: "$",
+      blockOpen: "$$",
+      blockClose: "$$",
+      inlineRenderer: (str) => {
+          return katex.renderToString(str, {displayMode: false, trust: true})
+      },
+      blockRenderer: (str) => {
+          return katex.renderToString(str, {displayMode: true, trust: true})
+      }
+  });
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Browsersync Overrides

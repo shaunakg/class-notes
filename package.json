@@ -57,6 +57,7 @@
     "html-minifier": "^4.0.0",
     "image-size": "^0.8.3",
     "jimp": "^0.14.0",
+    "katex": "^0.12.0",
     "lru-cache": "^5.1.1",
     "markdown-it-math": "^4.1.1",
     "mocha": "^8.1.3",
