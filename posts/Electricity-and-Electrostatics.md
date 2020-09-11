@@ -7,7 +7,7 @@ tags:
   - electricity
   - electrostatics
 layout: layouts/post.njk
-image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg
+image: https://unsplash.com/photos/yETqkLnhsUI/download?force=true&w=1920
 ---
 
 ## Electrokinetics

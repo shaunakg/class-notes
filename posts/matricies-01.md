@@ -1,12 +1,15 @@
-# Matrices (Chapter 7)
+---
+title: Matrices
+description: A short summary on matrices
+date: 2020-09-10
+tags:
+  - mathematics
+  - formulas
+layout: layouts/post.njk
+image: https://unsplash.com/photos/05A-kdOH6Hw/download?force=true&w=1920
+---
 
-Class: VCE Methods 1+2
-Created: Sep 6, 2020 5:49 PM
-Reviewed: No
-Textbook: Cambridge Maths Methods 1&2
-Type: Tutoring
-
-# Matrix
+## Matrix
 
 $$\begin{bmatrix} a & b \\ c & d \end{bmatrix}$$
 
@@ -14,7 +17,7 @@ This is a matrix with dimensions 2 x 2.
 
 Matrices have **inverses** and **determinants**.
 
-## Identity matrix
+### Identity matrix
 
 An identity matrix has 1s along the diagonal.
 
@@ -22,23 +25,23 @@ $$I = \begin{bmatrix} 1&0&0&0\\0&1&0&0\\0&0&1&0\\0&0&0&1\end{bmatrix}$$
 
 When a matrix is multiplied by an identity with the same dimensions, the matrix stays the same.
 
-# Determinant
+## Determinant
 
 The determinant formula shows whether a matrix can have a inverse.
 
-## Determinant formula for a 2 x 2 matrix
+### Determinant formula for a 2 x 2 matrix
 
 $$a = \begin{bmatrix} a & b \\ c & d \end{bmatrix}$$
 
 $$det(a) = ad - bc$$
 
-# Inverse
+## Inverse
 
 The inverse of a matrix is another matrix which, when multiplied by the original matrix yields an identity matrix. Explained better below ($A^-1$ is the inverse matrix of A).
 
 $$A * A^{-1} = I$$
 
-## Matrix inversion formula
+### Matrix inversion formula
 
 $$A = \begin{bmatrix} 3 & 2 \\ 1 & 6 \end{bmatrix}$$
 

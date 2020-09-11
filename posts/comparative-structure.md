@@ -1,3 +1,13 @@
+---
+title: Comparative structure
+description: A short description of comparative writing in english literature.
+date: 2020-09-11
+tags:
+  - English
+  - Writing
+layout: layouts/post.njk
+image: https://unsplash.com/photos/y02jEX_B0O0/download?force=true&w=1920
+---
 ## Comparative structure explained
 A comparative structure **still contains** a/an:
 - introduction
