@@ -7,7 +7,7 @@ tags:
   - Energy
   - Momentum
 layout: layouts/post.njk
-image: https://unsplash.com/photos/5mZ_M06Fc9g/download?force=true&w=1920
+image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg
 ---
 
 ## SI Units
