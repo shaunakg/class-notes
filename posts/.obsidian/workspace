@@ -1,0 +1,85 @@
+{
+  "main": {
+    "id": "f52a3687e2fbd43e",
+    "type": "split",
+    "children": [
+      {
+        "id": "60aa91cb09b3dfeb",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "energy-test-summary.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2aa27c5f7be6fe5",
+    "type": "split",
+    "children": [
+      {
+        "id": "802576a772ed7129",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "369e01dd592c7d24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "08c19a672cf62d44",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65417415eb50ba34",
+    "type": "split",
+    "children": [
+      {
+        "id": "99c648817422d0c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "270f6d6fe6acda3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "energy-test-summary.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "energy-test-summary.md",
+    "thirdpost.md",
+    "secondpost.md",
+    "fourthpost.md",
+    "firstpost.md"
+  ]
+}
