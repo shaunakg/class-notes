@@ -29,6 +29,9 @@ const BASE_URL = require("../_data/metadata.json").url;
 const jsonLd = (rawContent, outputPath) => {
   let content = rawContent;
 
+  // Test to make KaTeX build work - can't figure out how but this code block breaks it.
+  return content;
+
   if (outputPath && outputPath.endsWith(".html")) {
     const dom = new JSDOM(content);
     const jsonLd = dom.window.document.querySelector(
