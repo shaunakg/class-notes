@@ -1,11 +1,16 @@
-# Electricity and Electrostatics
+---
+title: Electricity and Electrostatics
+description: Notes about electricity and electrostatic equations in physics.
+date: 2020-09-10
+tags:
+  - physics
+  - electricity
+  - electrostatics
+layout: layouts/post.njk
+image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg
+---
 
-Class: VCE Physics 2
-Created: Sep 8, 2020 9:42 AM
-Reviewed: No
-Type: Lesson
-
-# Electrokinetics
+## Electrokinetics
 
 - Ohm's law
 - Series and parallel circuits
