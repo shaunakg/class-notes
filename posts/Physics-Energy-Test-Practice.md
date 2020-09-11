@@ -1,9 +1,14 @@
-# Physics Energy Test Practice
-
-Class: VCE Physics 2
-Created: Sep 6, 2020 3:03 PM
-Reviewed: No
-Type: Self study
+---
+title: Physics Energy Summary
+description: Summary sheet about energy and momentum equations in physics.
+date: 2020-09-10
+tags:
+  - physics
+  - energy
+  - momentum
+layout: layouts/post.njk
+image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg
+---
 
 ## Gravitational energy over hills
 
