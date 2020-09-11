@@ -50,7 +50,10 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+
 const katex = require('katex');
+const mhchem = require('./js/mhchem.min.js');
+
 const localImages = require("./third_party/eleventy-plugin-local-images/.eleventy.js");
 const CleanCSS = require("clean-css");
 
