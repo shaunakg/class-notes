@@ -62,6 +62,6 @@ $$V = \frac{\text{electric energy (joules)}}{\text{electric charge (coulombs)}}$
 
 The unit for electric potential is the volt. The **voltage is different from the volt**. Voltage is a measure of the change in electric potential, so it is actually $\Delta V$.
 
-![Electricity%20and%20Electrostatics%20cf32913ba43d4c118e8528c730572180/Untitled.png](img/posts/Electricity%20and%20Electrostatics%20cf32913ba43d4c118e8528c730572180/Untitled.png)
+![Electricity and Electrostatics cf32913ba43d4c118e8528c730572180/Untitled.png](img/posts/Electricity and Electrostatics cf32913ba43d4c118e8528c730572180/Untitled.png)
 
 In this image, electric potential is measured in volts but the voltage is the difference between potentials before and after the appliance.

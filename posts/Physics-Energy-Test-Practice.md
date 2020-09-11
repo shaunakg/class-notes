@@ -13,7 +13,7 @@ image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jp
 
 ## Gravitational energy over hills
 
-![Physics%20Energy%20Test%20Practice%2024d32e10a236440d84bba826a59da4d8/Untitled.png](img/posts/Physics%20Energy%20Test%20Practice%2024d32e10a236440d84bba826a59da4d8/Untitled.png)
+![Physics Energy Test Practice 24d32e10a236440d84bba826a59da4d8/Untitled.png](img/posts/Physics Energy Test Practice 24d32e10a236440d84bba826a59da4d8/Untitled.png)
 
 Equate kinetic energy and gravitational energy.
 
@@ -23,19 +23,19 @@ Without friction, gravity depends on the change in height. The hills will give b
 
 ## Bouncing on a trampoline
 
-![Physics%20Energy%20Test%20Practice%2024d32e10a236440d84bba826a59da4d8/Untitled%201.png](img/posts/Physics%20Energy%20Test%20Practice%2024d32e10a236440d84bba826a59da4d8/Untitled%201.png)
+![Physics Energy Test Practice 24d32e10a236440d84bba826a59da4d8/Untitled 1.png](img/posts/Physics Energy Test Practice 24d32e10a236440d84bba826a59da4d8/Untitled 1.png)
 
 The change in energy is $450 - 250 = 170$ joules. Using the equation from before we can do $\Delta h = 170/38/9.8$ which is $0.456498389$.
 
 ## Swinging on a bar
 
-![Physics%20Energy%20Test%20Practice%2024d32e10a236440d84bba826a59da4d8/Untitled%202.png](img/posts/Physics%20Energy%20Test%20Practice%2024d32e10a236440d84bba826a59da4d8/Untitled%202.png)
+![Physics Energy Test Practice 24d32e10a236440d84bba826a59da4d8/Untitled 2.png](img/posts/Physics Energy Test Practice 24d32e10a236440d84bba826a59da4d8/Untitled 2.png)
 
 $E_k = \frac{1}{2}mv^2$ is the formula for kinetic energy. Substitute this formula inside $E_g = m*g*\Delta h$ so then you get $\frac{1}{2}mv^2 = mg\Delta h$, remove mass from both sides to get $\frac{v^2}{2} = g\Delta h$. Isolate velocity with $v = \sqrt{2g\Delta h}$. Now we can input the values with $v = \sqrt{2 * 9.8 * 2.66}$. Therefore $v = 7.2205263$.
 
 ## Golf balls
 
-![Physics%20Energy%20Test%20Practice%2024d32e10a236440d84bba826a59da4d8/Untitled%203.png](img/posts/Physics%20Energy%20Test%20Practice%2024d32e10a236440d84bba826a59da4d8/Untitled%203.png)
+![Physics Energy Test Practice 24d32e10a236440d84bba826a59da4d8/Untitled 3.png](img/posts/Physics Energy Test Practice 24d32e10a236440d84bba826a59da4d8/Untitled 3.png)
 
 ### part a)
 
@@ -47,7 +47,7 @@ We can use the same formula except replace 31 with 23.91. We get $11.481582$ as 
 
 ## truck on a highway
 
-![Physics%20Energy%20Test%20Practice%2024d32e10a236440d84bba826a59da4d8/Untitled%204.png](img/posts/Physics%20Energy%20Test%20Practice%2024d32e10a236440d84bba826a59da4d8/Untitled%204.png)
+![Physics Energy Test Practice 24d32e10a236440d84bba826a59da4d8/Untitled 4.png](img/posts/Physics Energy Test Practice 24d32e10a236440d84bba826a59da4d8/Untitled 4.png)
 
 We use the 4th SUVAT equation for this. $v^2 = 2ax + u^2$. 
 
@@ -74,7 +74,7 @@ Therefore we get $v^2 = 2 * sin(20\deg)*9.8*130$. $v = 29.5206254$.
 
 ## Going down a waterslide
 
-![Physics%20Energy%20Test%20Practice%2024d32e10a236440d84bba826a59da4d8/Untitled%205.png](img/posts/Physics%20Energy%20Test%20Practice%2024d32e10a236440d84bba826a59da4d8/Untitled%205.png)
+![Physics Energy Test Practice 24d32e10a236440d84bba826a59da4d8/Untitled 5.png](img/posts/Physics Energy Test Practice 24d32e10a236440d84bba826a59da4d8/Untitled 5.png)
 
 First we will find the displacement between the start of the slide and the end.
 
