@@ -10,7 +10,9 @@ image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jp
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-This is a paragraph to test equations. This is an inline equation: $e = mc^2$. This is a block equation: $$E_g = m * g * \Delta h$$
+This is a paragraph to test equations. This is an inline equation: $e = mc^2$. This is a block equation: 
+
+$$E_g = m * g * \Delta h$$
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
