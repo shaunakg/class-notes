@@ -145,7 +145,7 @@ module.exports = function (eleventyConfig) {
     permalink: true,
     permalinkClass: "direct-link",
     permalinkSymbol: "#",
-  }).use(markdownKatex);
+  }).use(markdownKatex, {"throwOnError": false});
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Browsersync Overrides
