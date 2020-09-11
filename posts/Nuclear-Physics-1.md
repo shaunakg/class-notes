@@ -3,10 +3,13 @@ title: Nuclear Physics - Part 1
 description: Notes about nuclear fission and fusion including some chemical equations.
 date: 2020-09-10
 tags:
-  - humanities
-  - Indigenous
+  - science
+  - nuclear-physics
+  - chemistry
+  - fission
+  - fusion
 layout: layouts/post.njk
-image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg
+image: https://unsplash.com/photos/LWnD8U2OReU/download?force=true&w=1920
 ---
 
 ## History of nuclear testing

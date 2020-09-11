@@ -9,21 +9,21 @@ layout: layouts/post.njk
 image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg
 ---
 
-# Closing the gap
+## Closing the gap
 
 The close the gap campaign aims to close the health and life expectancy gap between Aboriginal and Torres Strait Islander peoples and non-indigenous Australians within a generation.
 
 It is a joint initiative between all levels of government and a Coalition of Aboriginal and Torres Strait Islander Peak Organisations.
 
-## What is the gap
+### What is the gap
 
 The gap refers to the vast health and life expectation inequality between Indigenous and non-Indigenous Australians.
 
 > Indigenous children are dying at almost three times the rate of non-Indigenous children in Australia.
 
-# Case studies
+## Case studies
 
-## Otitis media
+### Otitis media
 
 - Inflammation of the middle
     - Bacteria
@@ -34,7 +34,7 @@ The gap refers to the vast health and life expectation inequality between Indige
 - BUT the time in which children have this is in the periods of critical brain development.
 - Hearing loss during this period can be devastating for brain development - and it happens more to Indigenous people.
 
-## Rheumatic fever
+### Rheumatic fever
 
 - Simple bacterial infection
 - Triggers autoimmune response
@@ -43,7 +43,7 @@ The gap refers to the vast health and life expectation inequality between Indige
 - Repeated infections can lead to mitral valve disease - requiring open heart surgery to treat.
 - Arnhem Land has the highest rate in the WORLD.
 
-# Contributing factors
+## Contributing factors
 
 There are many complex factors.
 
@@ -54,7 +54,7 @@ There are many complex factors.
 - Treatment compliance
     - Language barrier - patient may not understand the treatment.
 
-# Consequences of chronic childhood disease
+## Consequences of chronic childhood disease
 
 - Reduced life expectancy
 - Permanent disability
