@@ -13,6 +13,10 @@ templateClass: tmpl-post
    </aside>
 {% endblock %}
 
+<div class="disclaimer">
+All of these writing are just notes. If you were linked from here from outside of the website, please note that the author has tried to keep all opinions out of these notes. If you find a mistake, please <a href="https://twitter.com/{{ metadata.author.twitterHandle }}" target="_blank" rel="noopener">contact me on Twitter.</a>
+</div>
+
 {% set shareUrl = metadata.url + page.url %}
 
 {% block article %}
