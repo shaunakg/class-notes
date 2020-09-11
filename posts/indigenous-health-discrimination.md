@@ -32,9 +32,6 @@ The gap refers to the vast health and life expectation inequality between Indige
 - Largely attributed to underdiagnoses and treatment.
     - Linked to access and education.
 - BUT the time in which children have this is in the periods of critical brain development.
-
-![Indigenous%20health%20and%20life%20expectancy%20inequality%20d5f1f8672c2e45d9b0a5e2759acf58d5/Untitled.png](Indigenous%20health%20and%20life%20expectancy%20inequality%20d5f1f8672c2e45d9b0a5e2759acf58d5/Untitled.png)
-
 - Hearing loss during this period can be devastating for brain development - and it happens more to Indigenous people.
 
 ## Rheumatic fever
