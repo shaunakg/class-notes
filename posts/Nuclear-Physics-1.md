@@ -30,7 +30,7 @@ $$_1^2H + _1^3H \to _2^5He \to _2^4He + _0^1n+energy$$
 
 ### Nuclear fusion in the sun
 
-![Nuclear Physics - Lesson 16 1ea5d07ea19c439fbf2ee7cb07870a43/Untitled.png](img/posts/Nuclear Physics - Lesson 16 1ea5d07ea19c439fbf2ee7cb07870a43/Untitled.png)
+![Nuclear%20Physics%20-%20Lesson%2016%201ea5d07ea19c439fbf2ee7cb07870a43/Untitled.png](Nuclear%20Physics%20-%20Lesson%2016%201ea5d07ea19c439fbf2ee7cb07870a43/Untitled.png)
 
 - Two protons (hydrogen nuclei) fuse together forming a hydrogen isotope, deuterium.
     - One of the protons has decayed, forming a neutron, a neutrino, a positron and releasing energy.
@@ -46,4 +46,3 @@ $$E = mc^2$$
 - c = speed of light in air = $3 * 10^8$m/s
 - The mass of a nucleus is always less than the mass of its individual nucleons.
 - Mass can be thought of as a property of energy (they are not quite the same thing)
-- Nuclei are moad
