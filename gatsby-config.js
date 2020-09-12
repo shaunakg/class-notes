@@ -10,12 +10,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'gatsby-starter-default',
-        short_name: 'starter',
-        start_url: '/',
-        background_color: '#663399',
-        theme_color: '#663399',
+        name: 'Class notes',
+        short_name: 'Class notes',
+        start_url: '/?from=pwa',
+        background_color: '#0a0a0a',
+        theme_color: '#fafafa',
         display: 'minimal-ui',
+        icon: `images/icon.png`
       },
     },
     {
