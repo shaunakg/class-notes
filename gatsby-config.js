@@ -14,7 +14,7 @@ module.exports = {
         short_name: 'Class notes',
         start_url: '/',
         background_color: '#0a0a0a',
-        theme_color: '#fafafa',
+        theme_color: '#a23e4',
         display: 'minimal-ui',
         icon: `images/icon.png`
       },
