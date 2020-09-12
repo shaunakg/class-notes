@@ -1,3 +1,0 @@
-# Length
-
-SI Unit: metres

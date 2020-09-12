@@ -1,3 +1,0 @@
-# Mass
-
-SI Unit: kilogram
