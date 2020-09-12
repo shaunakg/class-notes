@@ -12,7 +12,7 @@ module.exports = {
       options: {
         name: 'Class notes',
         short_name: 'Class notes',
-        start_url: '/?from=pwa',
+        start_url: '/',
         background_color: '#0a0a0a',
         theme_color: '#fafafa',
         display: 'minimal-ui',
@@ -25,6 +25,7 @@ module.exports = {
         plugins: [
           `gatsby-remark-prismjs`,
           `gatsby-remark-katex`,
+          `gatsby-remark-autolink-headers`,
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -40,6 +41,13 @@ module.exports = {
         path: `${__dirname}/src/pages`,
         name: 'pages'
       }
-    }
+    },
+    {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        trackingId: 'UA-143676169-6'
+      }
+    },
+    'gatsby-plugin-offline'
   ],
 }
