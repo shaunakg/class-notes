@@ -19,7 +19,7 @@ function algorithm() {
 ## Math Support
 
 $$
- \frac{a}{b} = c 
+\frac{a}{b} = c 
 $$
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eu nulla ac lectus vestibulum efficitur sed sit amet magna. Nulla cursus lorem nibh, ullamcorper rutrum arcu ultricies eget. Duis fermentum, nibh nec ornare feugiat, tortor nibh dapibus augue, quis porttitor erat velit sed nunc. Ut ultrices elit a interdum tincidunt. Donec viverra blandit metus, at commodo felis pulvinar sit amet. Donec sit amet mauris pellentesque, rhoncus nisi rutrum, porta ligula. Vivamus luctus mi nec interdum interdum. Aenean non mattis diam. Maecenas tortor ipsum, fringilla aliquet eros in, dapibus bibendum dolor.

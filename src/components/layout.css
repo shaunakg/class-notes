@@ -6,7 +6,36 @@ html {
 }
 body {
   margin: 0;
+  background-color: #0a0a0a;
+  color: #fafafa !important;
 }
+
+footer {
+  width: 100%;
+  text-align: center;
+  font-size: 80%;
+  padding: 20px;
+  margin: 1rem 0;
+  
+}
+
+.iconImage {
+  display: inline;
+  max-height: 82px;
+  padding: 0;
+  margin: 0;
+}
+
+.gatsby-highlight {
+  margin-bottom: 2rem;
+}
+
+.katex-display {
+  background: #2d2d2d;
+  border-radius: 3px;
+  padding: 20px;
+}
+
 article,
 aside,
 details,

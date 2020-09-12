@@ -24,7 +24,7 @@ const IndexPage = (props) => {
         <Accordion>
         {subjects.map((arr, i) => (
           <AccordionItem key={arr[0].node.fields.slug.split('/')[1]}>
-            <AccordionItemTitle>{arr[0].node.fields.slug.split('/')[1].toUpperCase().replace("-", " ")}</AccordionItemTitle>
+            <AccordionItemTitle>{arr[0].node.fields.slug.split('/')[1].replace("-", " ")}</AccordionItemTitle>
             {arr.map(({ node }, j) => (
               <AccordionItemBody key={node.frontmatter.title}>
                 <Link to={node.fields.slug} className="link" >

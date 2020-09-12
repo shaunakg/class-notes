@@ -17,28 +17,24 @@ a {
   border-radius: 2px;
 }
 
-.accordion__item + .accordion__item {
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
-}
-
 .accordion__item--has-icon {
   position: relative;
 }
 
+.accordion__item {
+  margin: 10px;
+  cursor: pointer;
+}
+
 .accordion__title {
-  background-color: #f4f4f4;
   font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-weight: 600;
-  color: #444;
-  cursor: pointer;
+  background-color: #A23E48;
+  border: 1px solid #A23E48;
+  color: #fff;
   padding: 18px;
   width: 100%;
   text-align: left;
-  border: none;
-}
-
-.accordion__title:hover {
-  background-color: #ddd;
 }
 
 .accordion__body {
@@ -47,11 +43,10 @@ a {
   font-weight: 500;
   display: block;
   animation: fadein 0.35s ease-in;
+  background-color: #000;
+  border-left: 5px solid #FF3C38;
   transition: all 300ms cubic-bezier(0.075, 0.82, 0.165, 1);
-}
-
-.accordion__body:hover {
-  font-weight: 900;
+  margin: 5px;
 }
 
 .accordion__body--hidden {

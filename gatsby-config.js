@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Class Notes',
+    author: 'Shaunak G'
   },
   plugins: [
     'gatsby-plugin-react-helmet',

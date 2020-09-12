@@ -3,7 +3,8 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
 
-import Header from './header'
+import Header from './header';
+import Footer from './footer';
 
 import 'typeface-inter';
 import './layout.css';
@@ -14,7 +15,8 @@ const Layout = ({ children }) => (
       query SiteTitleQuery {
         site {
           siteMetadata {
-            title
+            title,
+            author
           }
         }
       }
@@ -41,6 +43,7 @@ const Layout = ({ children }) => (
         >
           {children}
         </div>
+        <Footer author={data.site.siteMetadata.author} />
       </>
     )}
   />

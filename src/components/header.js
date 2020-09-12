@@ -16,15 +16,14 @@ const Header = ({ siteTitle }) => (
         padding: '1.45rem 1.0875rem',
       }}
     >
-      <h1 style={{ margin: 0 }}>
+      <h1 style={{ margin: 0 }} className="headerHeading">
         <Link
           to="/"
           style={{
-            color: 'black',
             textDecoration: 'none'
           }}
         >
-          {siteTitle}
+          <img title={siteTitle} aria-label={siteTitle + " logo"} alt={siteTitle} src="/icons/icon-192x192.png" className="iconImage" />
         </Link>
       </h1>
     </div>
