@@ -1,10 +1,8 @@
-# Matrices (Chapter 7)
-
-Class: VCE Methods 1+2
-Created: Sep 6, 2020 5:49 PM
-Reviewed: No
-Textbook: Cambridge Maths Methods 1&2
-Type: Tutoring
+---
+title: "Matrices 1"
+description: Reviewing simple matrix formulae
+date: '2020-09-01'
+---
 
 # Matrix
 
